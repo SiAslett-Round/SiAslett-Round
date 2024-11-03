@@ -5,7 +5,7 @@ Solution Architect, Consultant, Guitarist, Star Wars Fan, All round nice guy
 ----------------------------------------------------------------------------
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [Simon.Round@gmail.com](mailto:Simon.Round@gmail.com)
+* ✉️  You can contact me at [SiRound.Tech@gmail.com](mailto:SiRound.Tech@gmail.com)
 
 <a href="https://www.x.com/SiRound" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SiRound?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
