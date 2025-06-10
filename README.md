@@ -4,7 +4,7 @@ Hi 👋 My name is Simon Aslett-Round
 Solution Architect, Consultant, Guitarist, Star Wars Fan, All round nice guy
 ----------------------------------------------------------------------------
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in Shropshire, United Kingdom
 * ✉️  You can contact me at [SiRound.Tech@gmail.com](mailto:SiRound.Tech@gmail.com)
 
 
